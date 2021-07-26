@@ -37,18 +37,18 @@
 | 4b | timelog entry non-submission | Consultant clicks on "not submit" on interactive message | No timelog entry in Wrike |
 
 ## Documentation
-https://api.slack.com/start/building
-https://api.slack.com/methods/chat.postMessage
-https://api.slack.com/methods/conversations.open
-https://api.slack.com/docs/messages/builder
-https://app.slack.com/block-kit-builder
-https://api.slack.com/legacy/interactive-message-field-guide
-https://firebase.google.com/docs/database/admin/save-data
-https://firebase.google.com/docs/database/admin/retrieve-data
-https://developers.wrike.com/api/v4/timelogs/#create-timelog
+- https://api.slack.com/start/building
+- https://api.slack.com/methods/chat.postMessage
+- https://api.slack.com/methods/conversations.open
+- https://api.slack.com/docs/messages/builder
+- https://app.slack.com/block-kit-builder
+- https://api.slack.com/legacy/interactive-message-field-guide
+- https://firebase.google.com/docs/database/admin/save-data
+- https://firebase.google.com/docs/database/admin/retrieve-data
+- https://developers.wrike.com/api/v4/timelogs/#create-timelog
 
 ## Links (require platform login)
-https://api.slack.com/apps?new_app=1
-https://console.firebase.google.com
-https://www.wrike.com/workspace.htm
-https://dashboard.ngrok.com/get-started/setup
+- https://api.slack.com/apps?new_app=1
+- https://console.firebase.google.com
+- https://www.wrike.com/workspace.htm
+- https://dashboard.ngrok.com/get-started/setup
