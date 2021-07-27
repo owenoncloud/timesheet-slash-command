@@ -8,9 +8,9 @@
 
 ## Stacks
 - NodeJS, libraries: "express" (server framework), "body-parser" (rendering of API requests & responses), "axios" (triggering of API calls), "moment" (date calculation)
-- Slack (Bot creation)
-- Firebase (database)
-- Wrike (Timelog & PM Tool - business account required)
+- Slack (Bot creation), connect via API
+- Firebase (database), library: "firebase-admin"
+- Wrike (Timelog & PM Tool - business account required), connect via API
 
 ## Architecture & Pre-requisites / settings
 - Refer to [this diagram](https://drive.google.com/file/d/1UwM00rqu2LXbhHo1RhB6qf0LjEVYuYgB/view?usp=sharing)
