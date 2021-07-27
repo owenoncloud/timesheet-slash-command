@@ -17,10 +17,10 @@
 - Note the specific Stack logins and keys are not provided here, create your own 
 
 ## File structure
-- `timesheet-slash-command.js` to run an API server with two endpoints - /timesheet & /action, of which logic is defined under the respective JS files in the "routes" folder.
+- `timesheet-slash-command.js` to run an API server with two endpoints - `/timesheet` & `/action`, of which logic is defined under the respective JS files in the `routes` folder.
 - `reminder.js` is a cronjob bot to check the time and trigger a reminder.
-- `testing.js` is a simple file to trigger a message to verify the functioning of Wrike API.
-- The JS files under the "modules" folder are the required interfaces to different systems, namely Slack, Firebase (database), Wrike (PM tool) along with its taskID mapping.
+- `testing.js` is a simple file to trigger a Slack message to verify the functioning of Slack API.
+- The JS files under the `modules` folder are the required interfaces to different systems, namely Slack, Firebase (database), Wrike (PM tool) along with its taskId mapping.
 - Note for security reasons, the specific Stack configurations and keys are not provided here, create your own - they are "botToken", managerId", "channelId", "firebasePrivateKey" and "wrikeToken"
  
 ## Running 
