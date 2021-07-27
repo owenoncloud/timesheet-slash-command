@@ -1,10 +1,8 @@
 /*
-This scripts initialize the app, serve the endpoints for which the connected Slack workspace will call
+This scripts initialize the app, serve the endpoints for which the connected Slack workspace will call to.
 - Express server webframework 
 
-against the interfaces to Firebase, a document-based NoSQL database.
-Specific users' messages and interactions are stored there for state management and future reference
-
+Specific users' messages and interactions are stored to Firebase, a document-based NoSQL database, for state management and future reference
 */
 
 const express = require('express');

@@ -5,7 +5,7 @@ This scripts contains the API call to Wrike, a project / timelog management SaaS
 
 const axios = require('axios');
 const config = require('../config');
-//const projectMappingArray = require('../wrike-mapping');
+//const projectMappingArray = require('../modules/wrike-mapping');
 
 
 //----------1.) Send timelog to Wrike, required parameters are taskId, trackDate, hours and comment----------
